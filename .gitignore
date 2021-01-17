@@ -21,4 +21,4 @@ datasets/titanic
 datasets/words
 datasets/jsb_chorales
 *.ipynb
-!Own/housing.ipynb
+!Own/Housing/housing.ipynb
